@@ -13214,7 +13214,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   color: white;
   cursor: pointer;
   font-size: 15px;
-  width: 95%;
+  width: 98%;
 }
 
 /* Darker background on mouse-over */
@@ -13236,9 +13236,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content .audio {
     width: 290px;
     height: 54px;
-    position: absolute;
-    bottom: 0;
-    left: 0;
+    position: relative;
   }
 
   /* Style buttons */
