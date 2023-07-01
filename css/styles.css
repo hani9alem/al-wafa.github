@@ -13229,7 +13229,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 @media only screen and (max-width: 600px) {
   .img-fluid_2 {
-    width: 100%;
+    width: 95%;
     height: auto;
   }
 
@@ -13246,7 +13246,7 @@ section#contact form#contactForm :-ms-input-placeholder {
     color: white;
     cursor: pointer;
     font-size: 15px;
-    width: 100%;
+    width: 95%;
   }
 
   /* Darker background on mouse-over */
